@@ -1,0 +1,3 @@
+cd D:\Fire_Smoke_Detect
+.\venv\Scripts\Activate.ps1
+python "Fire Detect.py"
