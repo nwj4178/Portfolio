@@ -48,15 +48,11 @@ YOLO 기반 객체 탐지 모델을 다양한 환경의 화재 이미지에 맞�
 
 ### 1. 라이브러리 설치
 
-```bash
 pip install -r requirements.txt
-```
 
 ### 2. 화재 감지 실행
 
-```bash
 python fire_detect.py
-```
 
 ---
 
