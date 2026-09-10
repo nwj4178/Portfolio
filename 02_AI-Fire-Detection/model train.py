@@ -15,8 +15,8 @@ def train():
         imgsz=640,
         batch=8,
         device='cuda:0',
-        project="runs/fire_smoke",
-        name='fire-and-smoke-finetune',
+        project="runs/fire",
+        name='fire-finetune',
         workers=4
     )
 
