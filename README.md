@@ -15,7 +15,7 @@
 - YOLO 모델 파인튜닝 및 하이퍼파라미터 조정
 
 ### 03. 스마트 우산 보관함
-- **Language / Platform:** C/C++ / Arduino
+- **Language / Platform:** C++ / Arduino
 - 키패드 기반 비밀번호 설정 및 검증
 - 릴레이 및 솔레노이드 잠금장치 제어
 
